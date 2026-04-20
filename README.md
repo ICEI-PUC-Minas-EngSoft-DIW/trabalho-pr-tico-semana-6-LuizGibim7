@@ -8,10 +8,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Luiz Felipe Gibim Borges
+- Matricula: 907434
+- Proposta de projeto escolhida: Sistema de Academias
+- Breve descrição sobre seu projeto: Sistema de academias e dietas
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
